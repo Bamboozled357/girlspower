@@ -1,0 +1,10 @@
+Django==3.2.7
+djangorestframework
+psycopg2-binary==2.9.1
+Pillow==8.3.2
+python-decouple==3.4
+drf-yasg
+celery
+django-widget-tweaks
+django_filter
+django-versatileimagefield
